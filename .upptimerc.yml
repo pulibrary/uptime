@@ -16,18 +16,30 @@ sites:
     url: https://figgy.princeton.edu
   - name: Research Data
     url: https://researchdata.princeton.edu
+  - name: Cicognara
+    url: https://cicognara.org
+  - name: DPUL
+    url: https://dpul.princeton.edu
+  - name: Dataspace
+    url: https://dataspace.princeton.edu
+  - name: OAR
+    url: https://oar.princeton.edu
+  - name: Bibdata
+    url: https://bibdata.princeton.edu
+  - name: Confluence
+    url: https://lib-confluence.princeton.edu
   - name: Secret Site
     url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: pulibrary.github.io
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introMessage: This status page uses **real-time** data from our [Github repository](https://github.com/pulibrary/uptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
     - title: Status
       href: /
