@@ -11,9 +11,9 @@
     "name": "Library Catalog",
     "url": "https://catalog.princeton.edu",
     "slug": "library-catalog",
-    "status": "down",
-    "uptime": "99.96",
-    "time": 1141
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1599
   },
   {
     "name": "Maps Website",
