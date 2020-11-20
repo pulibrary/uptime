@@ -1,35 +1,43 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "down",
+    "name": "Library Website",
+    "url": "https://library.princeton.edu",
+    "slug": "library-website",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 127
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "down",
+    "name": "Library Catalog",
+    "url": "https://catalog.princeton.edu",
+    "slug": "library-catalog",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 1566
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "down",
+    "name": "Maps Website",
+    "url": "https://maps.princeton.edu",
+    "slug": "maps-website",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 247
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
+    "name": "Figgy",
+    "url": "https://figgy.princeton.edu",
+    "slug": "figgy",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 1092
+  },
+  {
+    "name": "Research Data",
+    "url": "https://researchdata.princeton.edu",
+    "slug": "research-data",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 234
   },
   {
     "name": "Secret Site",
