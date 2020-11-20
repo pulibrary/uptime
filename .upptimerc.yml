@@ -1,17 +1,21 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: pulibrary # Your GitHub username
+repo: uptime # Your Github repository name
+
+user-agent: pulibrary
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: Library Website
+    url: https://library.princeton.edu
+  - name: Library Catalog
+    url: https://catalog.princeton.edu
+  - name: Maps Website
+    url: https://maps.princeton.edu
+  - name: Figgy
+    url: https://figgy.princeton.edu
+  - name: Research Data
+    url: https://researchdata.princeton.edu
   - name: Secret Site
     url: $SECRET_SITE
 
