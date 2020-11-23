@@ -4,95 +4,95 @@
     "url": "https://library.princeton.edu",
     "slug": "library-website",
     "status": "up",
-    "uptime": "100.00",
-    "time": 270
+    "uptime": "100.00%",
+    "time": 254
   },
   {
     "name": "Library Catalog",
     "url": "https://catalog.princeton.edu",
     "slug": "library-catalog",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1599
+    "uptime": "99.87%",
+    "time": 1551
   },
   {
     "name": "Maps Website",
     "url": "https://maps.princeton.edu",
     "slug": "maps-website",
     "status": "up",
-    "uptime": "100.00",
-    "time": 249
+    "uptime": "100.00%",
+    "time": 253
   },
   {
     "name": "Figgy",
     "url": "https://figgy.princeton.edu",
     "slug": "figgy",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1019
+    "uptime": "100.00%",
+    "time": 1008
   },
   {
     "name": "Research Data",
     "url": "https://researchdata.princeton.edu",
     "slug": "research-data",
     "status": "up",
-    "uptime": "100.00",
-    "time": 219
+    "uptime": "100.00%",
+    "time": 208
   },
   {
     "name": "Cicognara",
     "url": "https://cicognara.org",
     "slug": "cicognara",
     "status": "up",
-    "uptime": "100.00",
-    "time": 155
+    "uptime": "100.00%",
+    "time": 163
   },
   {
     "name": "DPUL",
     "url": "https://dpul.princeton.edu",
     "slug": "dpul",
     "status": "up",
-    "uptime": "100.00",
-    "time": 286
+    "uptime": "100.00%",
+    "time": 260
   },
   {
     "name": "Dataspace",
     "url": "https://dataspace.princeton.edu",
     "slug": "dataspace",
     "status": "up",
-    "uptime": "100.00",
-    "time": 219
+    "uptime": "100.00%",
+    "time": 217
   },
   {
     "name": "OAR",
     "url": "https://oar.princeton.edu",
     "slug": "oar",
     "status": "up",
-    "uptime": "100.00",
-    "time": 260
+    "uptime": "100.00%",
+    "time": 234
   },
   {
     "name": "Bibdata",
     "url": "https://bibdata.princeton.edu",
     "slug": "bibdata",
     "status": "up",
-    "uptime": "100.00",
-    "time": 159
+    "uptime": "100.00%",
+    "time": 155
   },
   {
     "name": "Confluence",
     "url": "https://lib-confluence.princeton.edu",
     "slug": "confluence",
     "status": "up",
-    "uptime": "100.00",
-    "time": 2978
+    "uptime": "99.06%",
+    "time": 2712
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "98.61",
+    "uptime": "97.67%",
     "time": 0
   }
 ]
