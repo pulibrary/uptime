@@ -5,15 +5,15 @@
     "slug": "library-website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 254
+    "time": 241
   },
   {
     "name": "Library Catalog",
     "url": "https://catalog.princeton.edu",
     "slug": "library-catalog",
     "status": "up",
-    "uptime": "99.66%",
-    "time": 1334
+    "uptime": "99.74%",
+    "time": 1390
   },
   {
     "name": "Maps Website",
@@ -21,7 +21,7 @@
     "slug": "maps-website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 253
+    "time": 419
   },
   {
     "name": "Figgy",
@@ -29,7 +29,7 @@
     "slug": "figgy",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1008
+    "time": 953
   },
   {
     "name": "Research Data",
@@ -37,7 +37,7 @@
     "slug": "research-data",
     "status": "up",
     "uptime": "100.00%",
-    "time": 208
+    "time": 200
   },
   {
     "name": "Cicognara",
@@ -45,7 +45,7 @@
     "slug": "cicognara",
     "status": "up",
     "uptime": "100.00%",
-    "time": 163
+    "time": 150
   },
   {
     "name": "DPUL",
@@ -53,7 +53,7 @@
     "slug": "dpul",
     "status": "up",
     "uptime": "100.00%",
-    "time": 260
+    "time": 256
   },
   {
     "name": "Dataspace",
@@ -61,7 +61,7 @@
     "slug": "dataspace",
     "status": "up",
     "uptime": "100.00%",
-    "time": 217
+    "time": 203
   },
   {
     "name": "OAR",
@@ -69,7 +69,7 @@
     "slug": "oar",
     "status": "up",
     "uptime": "100.00%",
-    "time": 234
+    "time": 225
   },
   {
     "name": "Bibdata",
@@ -77,22 +77,22 @@
     "slug": "bibdata",
     "status": "up",
     "uptime": "100.00%",
-    "time": 155
+    "time": 151
   },
   {
     "name": "Confluence",
     "url": "https://lib-confluence.princeton.edu",
     "slug": "confluence",
     "status": "up",
-    "uptime": "99.11%",
-    "time": 2712
+    "uptime": "99.34%",
+    "time": 2515
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "97.55%",
+    "uptime": "96.74%",
     "time": 0
   }
 ]
