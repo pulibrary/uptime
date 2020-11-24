@@ -59,9 +59,9 @@
     "name": "Dataspace",
     "url": "https://dataspace.princeton.edu",
     "slug": "dataspace",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 197
+    "time": 208
   },
   {
     "name": "OAR",
@@ -92,7 +92,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "96.21%",
+    "uptime": "96.20%",
     "time": 0
   }
 ]
