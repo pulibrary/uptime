@@ -12,7 +12,7 @@
     "url": "https://catalog.princeton.edu",
     "slug": "library-catalog",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.78%",
     "time": 1390
   },
   {
@@ -59,9 +59,9 @@
     "name": "Dataspace",
     "url": "https://dataspace.princeton.edu",
     "slug": "dataspace",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 203
+    "time": 197
   },
   {
     "name": "OAR",
@@ -84,7 +84,7 @@
     "url": "https://lib-confluence.princeton.edu",
     "slug": "confluence",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.43%",
     "time": 2515
   },
   {
@@ -92,7 +92,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "96.74%",
+    "uptime": "96.21%",
     "time": 0
   }
 ]
