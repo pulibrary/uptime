@@ -12,7 +12,7 @@
     "url": "https://catalog.princeton.edu",
     "slug": "library-catalog",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "time": 1388
   },
   {
@@ -83,16 +83,16 @@
     "name": "Confluence",
     "url": "https://lib-confluence.princeton.edu",
     "slug": "confluence",
-    "status": "up",
-    "uptime": "99.49%",
-    "time": 2336
+    "status": "down",
+    "uptime": "99.50%",
+    "time": 2169
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "95.83%",
+    "uptime": "95.70%",
     "time": 0
   }
 ]
