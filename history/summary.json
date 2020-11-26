@@ -67,9 +67,9 @@
     "name": "OAR",
     "url": "https://oar.princeton.edu",
     "slug": "oar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 221
+    "time": 211
   },
   {
     "name": "Bibdata",
@@ -84,7 +84,7 @@
     "url": "https://lib-confluence.princeton.edu",
     "slug": "confluence",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "time": 1920
   },
   {
@@ -92,7 +92,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "94.94%",
+    "uptime": "94.84%",
     "time": 0
   }
 ]
