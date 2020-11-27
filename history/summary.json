@@ -27,9 +27,9 @@
     "name": "Figgy",
     "url": "https://figgy.princeton.edu",
     "slug": "figgy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 870
+    "time": 805
   },
   {
     "name": "Research Data",
@@ -92,7 +92,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "94.07%",
+    "uptime": "94.03%",
     "time": 0
   }
 ]
