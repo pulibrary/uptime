@@ -67,8 +67,8 @@
     "name": "OAR",
     "url": "https://oar.princeton.edu",
     "slug": "oar",
-    "status": "down",
-    "uptime": "99.85%",
+    "status": "up",
+    "uptime": "99.77%",
     "time": 176
   },
   {
@@ -92,7 +92,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "92.69%",
+    "uptime": "92.68%",
     "time": 0
   }
 ]
