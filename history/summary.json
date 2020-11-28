@@ -5,15 +5,15 @@
     "slug": "library-website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 240
+    "time": 236
   },
   {
     "name": "Library Catalog",
     "url": "https://catalog.princeton.edu",
     "slug": "library-catalog",
     "status": "up",
-    "uptime": "99.86%",
-    "time": 1360
+    "uptime": "99.88%",
+    "time": 1332
   },
   {
     "name": "Maps Website",
@@ -21,7 +21,7 @@
     "slug": "maps-website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 350
+    "time": 342
   },
   {
     "name": "Figgy",
@@ -29,7 +29,7 @@
     "slug": "figgy",
     "status": "up",
     "uptime": "100.00%",
-    "time": 744
+    "time": 753
   },
   {
     "name": "Research Data",
@@ -37,7 +37,7 @@
     "slug": "research-data",
     "status": "up",
     "uptime": "100.00%",
-    "time": 183
+    "time": 182
   },
   {
     "name": "Cicognara",
@@ -45,7 +45,7 @@
     "slug": "cicognara",
     "status": "up",
     "uptime": "100.00%",
-    "time": 141
+    "time": 143
   },
   {
     "name": "DPUL",
@@ -53,7 +53,7 @@
     "slug": "dpul",
     "status": "up",
     "uptime": "100.00%",
-    "time": 230
+    "time": 222
   },
   {
     "name": "Dataspace",
@@ -61,15 +61,15 @@
     "slug": "dataspace",
     "status": "up",
     "uptime": "100.00%",
-    "time": 183
+    "time": 181
   },
   {
     "name": "OAR",
     "url": "https://oar.princeton.edu",
     "slug": "oar",
     "status": "up",
-    "uptime": "99.91%",
-    "time": 198
+    "uptime": "99.92%",
+    "time": 192
   },
   {
     "name": "Bibdata",
@@ -77,22 +77,22 @@
     "slug": "bibdata",
     "status": "up",
     "uptime": "100.00%",
-    "time": 133
+    "time": 131
   },
   {
     "name": "Confluence",
     "url": "https://lib-confluence.princeton.edu",
     "slug": "confluence",
     "status": "up",
-    "uptime": "99.58%",
-    "time": 1811
+    "uptime": "99.63%",
+    "time": 1722
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "94.02%",
+    "uptime": "93.21%",
     "time": 0
   }
 ]
