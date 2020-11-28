@@ -67,9 +67,9 @@
     "name": "OAR",
     "url": "https://oar.princeton.edu",
     "slug": "oar",
-    "status": "down",
-    "uptime": "99.92%",
-    "time": 189
+    "status": "up",
+    "uptime": "99.85%",
+    "time": 183
   },
   {
     "name": "Bibdata",
