@@ -5,15 +5,15 @@
     "slug": "library-website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 231
+    "time": 226
   },
   {
     "name": "Library Catalog",
     "url": "https://catalog.princeton.edu",
     "slug": "library-catalog",
     "status": "up",
-    "uptime": "99.91%",
-    "time": 1300
+    "uptime": "99.92%",
+    "time": 1278
   },
   {
     "name": "Maps Website",
@@ -21,7 +21,7 @@
     "slug": "maps-website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 328
+    "time": 320
   },
   {
     "name": "Figgy",
@@ -29,7 +29,7 @@
     "slug": "figgy",
     "status": "up",
     "uptime": "100.00%",
-    "time": 744
+    "time": 729
   },
   {
     "name": "Research Data",
@@ -37,7 +37,7 @@
     "slug": "research-data",
     "status": "up",
     "uptime": "100.00%",
-    "time": 175
+    "time": 169
   },
   {
     "name": "Cicognara",
@@ -53,7 +53,7 @@
     "slug": "dpul",
     "status": "up",
     "uptime": "100.00%",
-    "time": 215
+    "time": 220
   },
   {
     "name": "Dataspace",
@@ -61,15 +61,15 @@
     "slug": "dataspace",
     "status": "up",
     "uptime": "100.00%",
-    "time": 174
+    "time": 171
   },
   {
     "name": "OAR",
     "url": "https://oar.princeton.edu",
     "slug": "oar",
     "status": "up",
-    "uptime": "99.81%",
-    "time": 181
+    "uptime": "99.82%",
+    "time": 177
   },
   {
     "name": "Bibdata",
@@ -77,22 +77,22 @@
     "slug": "bibdata",
     "status": "up",
     "uptime": "100.00%",
-    "time": 127
+    "time": 124
   },
   {
     "name": "Confluence",
     "url": "https://lib-confluence.princeton.edu",
     "slug": "confluence",
     "status": "up",
-    "uptime": "99.18%",
-    "time": 1850
+    "uptime": "99.25%",
+    "time": 1794
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "91.40%",
+    "uptime": "90.72%",
     "time": 0
   }
 ]
