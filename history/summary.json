@@ -83,9 +83,9 @@
     "name": "Confluence",
     "url": "https://lib-confluence.princeton.edu",
     "slug": "confluence",
-    "status": "down",
-    "uptime": "99.08%",
-    "time": 2064
+    "status": "up",
+    "uptime": "99.04%",
+    "time": 2009
   },
   {
     "name": "Secret Site",
