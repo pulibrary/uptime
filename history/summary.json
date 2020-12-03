@@ -5,15 +5,31 @@
     "slug": "library-website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 229
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 262,
+    "timeDay": 761,
+    "timeWeek": 283,
+    "timeMonth": 262,
+    "timeYear": 262
   },
   {
     "name": "Library Catalog",
     "url": "https://catalog.princeton.edu",
     "slug": "library-catalog",
     "status": "up",
-    "uptime": "99.92%",
-    "time": 1255
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1405,
+    "timeDay": 1427,
+    "timeWeek": 1078,
+    "timeMonth": 1405,
+    "timeYear": 1405
   },
   {
     "name": "Maps Website",
@@ -21,7 +37,15 @@
     "slug": "maps-website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 311
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 309,
+    "timeDay": 271,
+    "timeWeek": 234,
+    "timeMonth": 309,
+    "timeYear": 309
   },
   {
     "name": "Figgy",
@@ -29,7 +53,15 @@
     "slug": "figgy",
     "status": "up",
     "uptime": "100.00%",
-    "time": 745
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 742,
+    "timeDay": 679,
+    "timeWeek": 595,
+    "timeMonth": 742,
+    "timeYear": 742
   },
   {
     "name": "Research Data",
@@ -37,7 +69,15 @@
     "slug": "research-data",
     "status": "up",
     "uptime": "100.00%",
-    "time": 171
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 166,
+    "timeDay": 89,
+    "timeWeek": 133,
+    "timeMonth": 166,
+    "timeYear": 166
   },
   {
     "name": "Cicognara",
@@ -45,7 +85,15 @@
     "slug": "cicognara",
     "status": "up",
     "uptime": "100.00%",
-    "time": 133
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 132,
+    "timeDay": 113,
+    "timeWeek": 118,
+    "timeMonth": 132,
+    "timeYear": 132
   },
   {
     "name": "DPUL",
@@ -53,7 +101,15 @@
     "slug": "dpul",
     "status": "up",
     "uptime": "100.00%",
-    "time": 219
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 217,
+    "timeDay": 170,
+    "timeWeek": 197,
+    "timeMonth": 217,
+    "timeYear": 217
   },
   {
     "name": "Dataspace",
@@ -61,15 +117,31 @@
     "slug": "dataspace",
     "status": "up",
     "uptime": "100.00%",
-    "time": 173
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 175,
+    "timeDay": 197,
+    "timeWeek": 148,
+    "timeMonth": 175,
+    "timeYear": 175
   },
   {
     "name": "OAR",
     "url": "https://oar.princeton.edu",
     "slug": "oar",
     "status": "up",
-    "uptime": "99.84%",
-    "time": 175
+    "uptime": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 176,
+    "timeDay": 192,
+    "timeWeek": 148,
+    "timeMonth": 176,
+    "timeYear": 176
   },
   {
     "name": "Bibdata",
@@ -77,22 +149,46 @@
     "slug": "bibdata",
     "status": "up",
     "uptime": "100.00%",
-    "time": 121
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 122,
+    "timeDay": 127,
+    "timeWeek": 106,
+    "timeMonth": 122,
+    "timeYear": 122
   },
   {
     "name": "Confluence",
     "url": "https://lib-confluence.princeton.edu",
     "slug": "confluence",
     "status": "up",
-    "uptime": "99.04%",
-    "time": 2009
+    "uptime": "99.11%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.11%",
+    "time": 2791,
+    "timeDay": 157,
+    "timeWeek": 2989,
+    "timeMonth": 2791,
+    "timeYear": 2791
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "89.81%",
-    "time": 0
+    "uptime": "89.14%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "59.10%",
+    "uptimeYear": "89.14%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   }
 ]
