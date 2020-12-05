@@ -1,7 +1,7 @@
 url: https://oar.princeton.edu  
-status: up
-code: 200
-responseTime: 110
-lastUpdated: 2020-12-04T23:01:45.056Z
+status: down
+code: 502
+responseTime: 108
+lastUpdated: 2020-12-05T19:17:54.639Z
 startTime: Fri Nov 20 2020 14:44:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
