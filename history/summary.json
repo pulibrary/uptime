@@ -207,9 +207,9 @@
     "url": "https://lib-confluence.princeton.edu",
     "icon": "https://favicons.githubusercontent.com/lib-confluence.princeton.edu",
     "slug": "confluence",
-    "status": "up",
+    "status": "down",
     "uptime": "97.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "97.60%",
@@ -219,6 +219,7 @@
     "timeMonth": 258,
     "timeYear": 1050,
     "dailyMinutesDown": {
+      "2021-02-10": 0,
       "2021-02-06": 24,
       "2021-01-29": 15,
       "2021-01-24": 56,
@@ -271,7 +272,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-10": 34,
+      "2021-02-10": 124,
       "2021-02-09": 1440,
       "2021-02-08": 1440,
       "2021-02-07": 1440,
